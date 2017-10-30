@@ -1,6 +1,7 @@
 {
   "name": "react-webpack-boilerplate",
   "version": "1.0.0",
+  "description": "This is an boilerplate to react with webpack and redux.",
   "main": "index.js",
   "author": "William Mehler",
   "license": "MIT",
